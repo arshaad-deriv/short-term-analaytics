@@ -1,0 +1,1547 @@
+{
+    "name": "Bots Pre-translation Accuracy Report",
+    "url": "https://crowdin.com/project/dbef9ca2be0e95f1f7eda5fb4841196b",
+    "unit": "strings",
+    "dateRange": {
+        "from": "2025-07-29",
+        "to": "2025-08-28"
+    },
+    "data": [
+        {
+            "language": {
+                "id": 5,
+                "name": "Arabic",
+                "code": "ar"
+            },
+            "ai": {
+                "cumulativeStatistics": {
+                    "approvedWithoutEdit": 0,
+                    "postEdited": {
+                        "0-5": 0,
+                        "6-10": 0,
+                        "11-15": 0,
+                        "other": 0
+                    },
+                    "weightedUnits": 0
+                },
+                "temporalStatistics": null,
+                "prompts": []
+            },
+            "mt": {
+                "cumulativeStatistics": {
+                    "approvedWithoutEdit": 0,
+                    "postEdited": {
+                        "0-5": 0,
+                        "6-10": 0,
+                        "11-15": 0,
+                        "other": 0
+                    },
+                    "weightedUnits": 0
+                },
+                "temporalStatistics": null,
+                "providers": []
+            },
+            "tm": {
+                "cumulativeStatistics": {
+                    "approvedWithoutEdit": 3,
+                    "postEdited": {
+                        "0-5": 0,
+                        "6-10": 0,
+                        "11-15": 0,
+                        "other": 0
+                    },
+                    "weightedUnits": 3
+                },
+                "temporalStatistics": {
+                    "2025-08-27": {
+                        "approvedWithoutEdit": 3,
+                        "postEdited": {
+                            "0-5": 0,
+                            "6-10": 0,
+                            "11-15": 0,
+                            "other": 0
+                        },
+                        "weightedUnits": 3
+                    }
+                }
+            }
+        },
+        {
+            "language": {
+                "id": 79,
+                "name": "Bengali",
+                "code": "bn"
+            },
+            "ai": {
+                "cumulativeStatistics": {
+                    "approvedWithoutEdit": 0,
+                    "postEdited": {
+                        "0-5": 0,
+                        "6-10": 0,
+                        "11-15": 0,
+                        "other": 0
+                    },
+                    "weightedUnits": 0
+                },
+                "temporalStatistics": null,
+                "prompts": []
+            },
+            "mt": {
+                "cumulativeStatistics": {
+                    "approvedWithoutEdit": 0,
+                    "postEdited": {
+                        "0-5": 0,
+                        "6-10": 0,
+                        "11-15": 0,
+                        "other": 0
+                    },
+                    "weightedUnits": 0
+                },
+                "temporalStatistics": null,
+                "providers": []
+            },
+            "tm": {
+                "cumulativeStatistics": {
+                    "approvedWithoutEdit": 4,
+                    "postEdited": {
+                        "0-5": 0,
+                        "6-10": 0,
+                        "11-15": 0,
+                        "other": 0
+                    },
+                    "weightedUnits": 4
+                },
+                "temporalStatistics": {
+                    "2025-08-27": {
+                        "approvedWithoutEdit": 4,
+                        "postEdited": {
+                            "0-5": 0,
+                            "6-10": 0,
+                            "11-15": 0,
+                            "other": 0
+                        },
+                        "weightedUnits": 4
+                    }
+                }
+            }
+        },
+        {
+            "language": {
+                "id": 55,
+                "name": "Chinese Simplified",
+                "code": "zh-CN"
+            },
+            "ai": {
+                "cumulativeStatistics": {
+                    "approvedWithoutEdit": 59,
+                    "postEdited": {
+                        "0-5": 0,
+                        "6-10": 0,
+                        "11-15": 0,
+                        "other": 0
+                    },
+                    "weightedUnits": 59
+                },
+                "temporalStatistics": {
+                    "2025-08-26": {
+                        "approvedWithoutEdit": 1,
+                        "postEdited": {
+                            "0-5": 0,
+                            "6-10": 0,
+                            "11-15": 0,
+                            "other": 0
+                        },
+                        "weightedUnits": 1
+                    },
+                    "2025-08-27": {
+                        "approvedWithoutEdit": 11,
+                        "postEdited": {
+                            "0-5": 0,
+                            "6-10": 0,
+                            "11-15": 0,
+                            "other": 0
+                        },
+                        "weightedUnits": 11
+                    },
+                    "2025-08-28": {
+                        "approvedWithoutEdit": 47,
+                        "postEdited": {
+                            "0-5": 0,
+                            "6-10": 0,
+                            "11-15": 0,
+                            "other": 0
+                        },
+                        "weightedUnits": 47
+                    }
+                },
+                "prompts": [
+                    {
+                        "prompt": {
+                            "id": 18165,
+                            "provider": {
+                                "id": 2076,
+                                "type": "open_ai",
+                                "name": "Open AI"
+                            },
+                            "model": "gpt-4.1-mini",
+                            "name": "Webflow - Chinese Simplified  "
+                        },
+                        "cumulativeStatistics": {
+                            "approvedWithoutEdit": 59,
+                            "postEdited": {
+                                "0-5": 0,
+                                "6-10": 0,
+                                "11-15": 0,
+                                "other": 0
+                            },
+                            "weightedUnits": 59
+                        },
+                        "temporalStatistics": {
+                            "2025-08-26": {
+                                "approvedWithoutEdit": 1,
+                                "postEdited": {
+                                    "0-5": 0,
+                                    "6-10": 0,
+                                    "11-15": 0,
+                                    "other": 0
+                                },
+                                "weightedUnits": 1
+                            },
+                            "2025-08-27": {
+                                "approvedWithoutEdit": 11,
+                                "postEdited": {
+                                    "0-5": 0,
+                                    "6-10": 0,
+                                    "11-15": 0,
+                                    "other": 0
+                                },
+                                "weightedUnits": 11
+                            },
+                            "2025-08-28": {
+                                "approvedWithoutEdit": 47,
+                                "postEdited": {
+                                    "0-5": 0,
+                                    "6-10": 0,
+                                    "11-15": 0,
+                                    "other": 0
+                                },
+                                "weightedUnits": 47
+                            }
+                        }
+                    }
+                ]
+            },
+            "mt": {
+                "cumulativeStatistics": {
+                    "approvedWithoutEdit": 0,
+                    "postEdited": {
+                        "0-5": 0,
+                        "6-10": 0,
+                        "11-15": 0,
+                        "other": 0
+                    },
+                    "weightedUnits": 0
+                },
+                "temporalStatistics": null,
+                "providers": []
+            },
+            "tm": {
+                "cumulativeStatistics": {
+                    "approvedWithoutEdit": 7,
+                    "postEdited": {
+                        "0-5": 0,
+                        "6-10": 0,
+                        "11-15": 0,
+                        "other": 0
+                    },
+                    "weightedUnits": 7
+                },
+                "temporalStatistics": {
+                    "2025-08-27": {
+                        "approvedWithoutEdit": 7,
+                        "postEdited": {
+                            "0-5": 0,
+                            "6-10": 0,
+                            "11-15": 0,
+                            "other": 0
+                        },
+                        "weightedUnits": 7
+                    }
+                }
+            }
+        },
+        {
+            "language": {
+                "id": 56,
+                "name": "Chinese Traditional",
+                "code": "zh-TW"
+            },
+            "ai": {
+                "cumulativeStatistics": {
+                    "approvedWithoutEdit": 59,
+                    "postEdited": {
+                        "0-5": 0,
+                        "6-10": 0,
+                        "11-15": 0,
+                        "other": 0
+                    },
+                    "weightedUnits": 59
+                },
+                "temporalStatistics": {
+                    "2025-08-26": {
+                        "approvedWithoutEdit": 1,
+                        "postEdited": {
+                            "0-5": 0,
+                            "6-10": 0,
+                            "11-15": 0,
+                            "other": 0
+                        },
+                        "weightedUnits": 1
+                    },
+                    "2025-08-27": {
+                        "approvedWithoutEdit": 11,
+                        "postEdited": {
+                            "0-5": 0,
+                            "6-10": 0,
+                            "11-15": 0,
+                            "other": 0
+                        },
+                        "weightedUnits": 11
+                    },
+                    "2025-08-28": {
+                        "approvedWithoutEdit": 47,
+                        "postEdited": {
+                            "0-5": 0,
+                            "6-10": 0,
+                            "11-15": 0,
+                            "other": 0
+                        },
+                        "weightedUnits": 47
+                    }
+                },
+                "prompts": [
+                    {
+                        "prompt": {
+                            "id": 18177,
+                            "provider": {
+                                "id": 2076,
+                                "type": "open_ai",
+                                "name": "Open AI"
+                            },
+                            "model": "gpt-4.1-mini",
+                            "name": "Webflow - Chinese Traditional"
+                        },
+                        "cumulativeStatistics": {
+                            "approvedWithoutEdit": 59,
+                            "postEdited": {
+                                "0-5": 0,
+                                "6-10": 0,
+                                "11-15": 0,
+                                "other": 0
+                            },
+                            "weightedUnits": 59
+                        },
+                        "temporalStatistics": {
+                            "2025-08-26": {
+                                "approvedWithoutEdit": 1,
+                                "postEdited": {
+                                    "0-5": 0,
+                                    "6-10": 0,
+                                    "11-15": 0,
+                                    "other": 0
+                                },
+                                "weightedUnits": 1
+                            },
+                            "2025-08-27": {
+                                "approvedWithoutEdit": 11,
+                                "postEdited": {
+                                    "0-5": 0,
+                                    "6-10": 0,
+                                    "11-15": 0,
+                                    "other": 0
+                                },
+                                "weightedUnits": 11
+                            },
+                            "2025-08-28": {
+                                "approvedWithoutEdit": 47,
+                                "postEdited": {
+                                    "0-5": 0,
+                                    "6-10": 0,
+                                    "11-15": 0,
+                                    "other": 0
+                                },
+                                "weightedUnits": 47
+                            }
+                        }
+                    }
+                ]
+            },
+            "mt": {
+                "cumulativeStatistics": {
+                    "approvedWithoutEdit": 0,
+                    "postEdited": {
+                        "0-5": 0,
+                        "6-10": 0,
+                        "11-15": 0,
+                        "other": 0
+                    },
+                    "weightedUnits": 0
+                },
+                "temporalStatistics": null,
+                "providers": []
+            },
+            "tm": {
+                "cumulativeStatistics": {
+                    "approvedWithoutEdit": 7,
+                    "postEdited": {
+                        "0-5": 0,
+                        "6-10": 0,
+                        "11-15": 0,
+                        "other": 0
+                    },
+                    "weightedUnits": 7
+                },
+                "temporalStatistics": {
+                    "2025-08-27": {
+                        "approvedWithoutEdit": 7,
+                        "postEdited": {
+                            "0-5": 0,
+                            "6-10": 0,
+                            "11-15": 0,
+                            "other": 0
+                        },
+                        "weightedUnits": 7
+                    }
+                }
+            }
+        },
+        {
+            "language": {
+                "id": 2,
+                "name": "French",
+                "code": "fr"
+            },
+            "ai": {
+                "cumulativeStatistics": {
+                    "approvedWithoutEdit": 0,
+                    "postEdited": {
+                        "0-5": 0,
+                        "6-10": 0,
+                        "11-15": 0,
+                        "other": 0
+                    },
+                    "weightedUnits": 0
+                },
+                "temporalStatistics": null,
+                "prompts": []
+            },
+            "mt": {
+                "cumulativeStatistics": {
+                    "approvedWithoutEdit": 0,
+                    "postEdited": {
+                        "0-5": 0,
+                        "6-10": 0,
+                        "11-15": 0,
+                        "other": 0
+                    },
+                    "weightedUnits": 0
+                },
+                "temporalStatistics": null,
+                "providers": []
+            },
+            "tm": {
+                "cumulativeStatistics": {
+                    "approvedWithoutEdit": 2,
+                    "postEdited": {
+                        "0-5": 0,
+                        "6-10": 0,
+                        "11-15": 0,
+                        "other": 0
+                    },
+                    "weightedUnits": 2
+                },
+                "temporalStatistics": {
+                    "2025-08-27": {
+                        "approvedWithoutEdit": 2,
+                        "postEdited": {
+                            "0-5": 0,
+                            "6-10": 0,
+                            "11-15": 0,
+                            "other": 0
+                        },
+                        "weightedUnits": 2
+                    }
+                }
+            }
+        },
+        {
+            "language": {
+                "id": 11,
+                "name": "German",
+                "code": "de"
+            },
+            "ai": {
+                "cumulativeStatistics": {
+                    "approvedWithoutEdit": 0,
+                    "postEdited": {
+                        "0-5": 0,
+                        "6-10": 0,
+                        "11-15": 0,
+                        "other": 0
+                    },
+                    "weightedUnits": 0
+                },
+                "temporalStatistics": null,
+                "prompts": []
+            },
+            "mt": {
+                "cumulativeStatistics": {
+                    "approvedWithoutEdit": 0,
+                    "postEdited": {
+                        "0-5": 0,
+                        "6-10": 0,
+                        "11-15": 0,
+                        "other": 0
+                    },
+                    "weightedUnits": 0
+                },
+                "temporalStatistics": null,
+                "providers": []
+            },
+            "tm": {
+                "cumulativeStatistics": {
+                    "approvedWithoutEdit": 4,
+                    "postEdited": {
+                        "0-5": 0,
+                        "6-10": 0,
+                        "11-15": 0,
+                        "other": 0
+                    },
+                    "weightedUnits": 4
+                },
+                "temporalStatistics": {
+                    "2025-08-27": {
+                        "approvedWithoutEdit": 4,
+                        "postEdited": {
+                            "0-5": 0,
+                            "6-10": 0,
+                            "11-15": 0,
+                            "other": 0
+                        },
+                        "weightedUnits": 4
+                    }
+                }
+            }
+        },
+        {
+            "language": {
+                "id": 24,
+                "name": "Italian",
+                "code": "it"
+            },
+            "ai": {
+                "cumulativeStatistics": {
+                    "approvedWithoutEdit": 0,
+                    "postEdited": {
+                        "0-5": 0,
+                        "6-10": 0,
+                        "11-15": 0,
+                        "other": 0
+                    },
+                    "weightedUnits": 0
+                },
+                "temporalStatistics": null,
+                "prompts": []
+            },
+            "mt": {
+                "cumulativeStatistics": {
+                    "approvedWithoutEdit": 0,
+                    "postEdited": {
+                        "0-5": 0,
+                        "6-10": 0,
+                        "11-15": 0,
+                        "other": 0
+                    },
+                    "weightedUnits": 0
+                },
+                "temporalStatistics": null,
+                "providers": []
+            },
+            "tm": {
+                "cumulativeStatistics": {
+                    "approvedWithoutEdit": 0,
+                    "postEdited": {
+                        "0-5": 0,
+                        "6-10": 0,
+                        "11-15": 0,
+                        "other": 0
+                    },
+                    "weightedUnits": 0
+                },
+                "temporalStatistics": null
+            }
+        },
+        {
+            "language": {
+                "id": 66,
+                "name": "Khmer",
+                "code": "km"
+            },
+            "ai": {
+                "cumulativeStatistics": {
+                    "approvedWithoutEdit": 0,
+                    "postEdited": {
+                        "0-5": 0,
+                        "6-10": 0,
+                        "11-15": 0,
+                        "other": 0
+                    },
+                    "weightedUnits": 0
+                },
+                "temporalStatistics": null,
+                "prompts": []
+            },
+            "mt": {
+                "cumulativeStatistics": {
+                    "approvedWithoutEdit": 0,
+                    "postEdited": {
+                        "0-5": 0,
+                        "6-10": 0,
+                        "11-15": 0,
+                        "other": 0
+                    },
+                    "weightedUnits": 0
+                },
+                "temporalStatistics": null,
+                "providers": []
+            },
+            "tm": {
+                "cumulativeStatistics": {
+                    "approvedWithoutEdit": 5,
+                    "postEdited": {
+                        "0-5": 0,
+                        "6-10": 0,
+                        "11-15": 0,
+                        "other": 0
+                    },
+                    "weightedUnits": 5
+                },
+                "temporalStatistics": {
+                    "2025-08-27": {
+                        "approvedWithoutEdit": 5,
+                        "postEdited": {
+                            "0-5": 0,
+                            "6-10": 0,
+                            "11-15": 0,
+                            "other": 0
+                        },
+                        "weightedUnits": 5
+                    }
+                }
+            }
+        },
+        {
+            "language": {
+                "id": 27,
+                "name": "Korean",
+                "code": "ko"
+            },
+            "ai": {
+                "cumulativeStatistics": {
+                    "approvedWithoutEdit": 0,
+                    "postEdited": {
+                        "0-5": 0,
+                        "6-10": 0,
+                        "11-15": 0,
+                        "other": 0
+                    },
+                    "weightedUnits": 0
+                },
+                "temporalStatistics": null,
+                "prompts": []
+            },
+            "mt": {
+                "cumulativeStatistics": {
+                    "approvedWithoutEdit": 0,
+                    "postEdited": {
+                        "0-5": 0,
+                        "6-10": 0,
+                        "11-15": 0,
+                        "other": 0
+                    },
+                    "weightedUnits": 0
+                },
+                "temporalStatistics": null,
+                "providers": []
+            },
+            "tm": {
+                "cumulativeStatistics": {
+                    "approvedWithoutEdit": 1,
+                    "postEdited": {
+                        "0-5": 0,
+                        "6-10": 0,
+                        "11-15": 0,
+                        "other": 0
+                    },
+                    "weightedUnits": 1
+                },
+                "temporalStatistics": {
+                    "2025-08-27": {
+                        "approvedWithoutEdit": 1,
+                        "postEdited": {
+                            "0-5": 0,
+                            "6-10": 0,
+                            "11-15": 0,
+                            "other": 0
+                        },
+                        "weightedUnits": 1
+                    }
+                }
+            }
+        },
+        {
+            "language": {
+                "id": 38,
+                "name": "Polish",
+                "code": "pl"
+            },
+            "ai": {
+                "cumulativeStatistics": {
+                    "approvedWithoutEdit": 0,
+                    "postEdited": {
+                        "0-5": 0,
+                        "6-10": 0,
+                        "11-15": 0,
+                        "other": 0
+                    },
+                    "weightedUnits": 0
+                },
+                "temporalStatistics": null,
+                "prompts": []
+            },
+            "mt": {
+                "cumulativeStatistics": {
+                    "approvedWithoutEdit": 0,
+                    "postEdited": {
+                        "0-5": 0,
+                        "6-10": 0,
+                        "11-15": 0,
+                        "other": 0
+                    },
+                    "weightedUnits": 0
+                },
+                "temporalStatistics": null,
+                "providers": []
+            },
+            "tm": {
+                "cumulativeStatistics": {
+                    "approvedWithoutEdit": 1,
+                    "postEdited": {
+                        "0-5": 0,
+                        "6-10": 0,
+                        "11-15": 0,
+                        "other": 0
+                    },
+                    "weightedUnits": 1
+                },
+                "temporalStatistics": {
+                    "2025-08-27": {
+                        "approvedWithoutEdit": 1,
+                        "postEdited": {
+                            "0-5": 0,
+                            "6-10": 0,
+                            "11-15": 0,
+                            "other": 0
+                        },
+                        "weightedUnits": 1
+                    }
+                }
+            }
+        },
+        {
+            "language": {
+                "id": 40,
+                "name": "Portuguese",
+                "code": "pt-PT"
+            },
+            "ai": {
+                "cumulativeStatistics": {
+                    "approvedWithoutEdit": 40,
+                    "postEdited": {
+                        "0-5": 0,
+                        "6-10": 0,
+                        "11-15": 0,
+                        "other": 0
+                    },
+                    "weightedUnits": 40
+                },
+                "temporalStatistics": {
+                    "2025-08-26": {
+                        "approvedWithoutEdit": 4,
+                        "postEdited": {
+                            "0-5": 0,
+                            "6-10": 0,
+                            "11-15": 0,
+                            "other": 0
+                        },
+                        "weightedUnits": 4
+                    },
+                    "2025-08-27": {
+                        "approvedWithoutEdit": 36,
+                        "postEdited": {
+                            "0-5": 0,
+                            "6-10": 0,
+                            "11-15": 0,
+                            "other": 0
+                        },
+                        "weightedUnits": 36
+                    }
+                },
+                "prompts": [
+                    {
+                        "prompt": {
+                            "id": 112883,
+                            "provider": {
+                                "id": 202175,
+                                "type": "anthropic",
+                                "name": "Anthropic"
+                            },
+                            "model": "claude-3-7-sonnet-20250219",
+                            "name": "Claude - Portugal Portugeese [Main Use]"
+                        },
+                        "cumulativeStatistics": {
+                            "approvedWithoutEdit": 40,
+                            "postEdited": {
+                                "0-5": 0,
+                                "6-10": 0,
+                                "11-15": 0,
+                                "other": 0
+                            },
+                            "weightedUnits": 40
+                        },
+                        "temporalStatistics": {
+                            "2025-08-26": {
+                                "approvedWithoutEdit": 4,
+                                "postEdited": {
+                                    "0-5": 0,
+                                    "6-10": 0,
+                                    "11-15": 0,
+                                    "other": 0
+                                },
+                                "weightedUnits": 4
+                            },
+                            "2025-08-27": {
+                                "approvedWithoutEdit": 36,
+                                "postEdited": {
+                                    "0-5": 0,
+                                    "6-10": 0,
+                                    "11-15": 0,
+                                    "other": 0
+                                },
+                                "weightedUnits": 36
+                            }
+                        }
+                    }
+                ]
+            },
+            "mt": {
+                "cumulativeStatistics": {
+                    "approvedWithoutEdit": 0,
+                    "postEdited": {
+                        "0-5": 0,
+                        "6-10": 0,
+                        "11-15": 0,
+                        "other": 0
+                    },
+                    "weightedUnits": 0
+                },
+                "temporalStatistics": null,
+                "providers": []
+            },
+            "tm": {
+                "cumulativeStatistics": {
+                    "approvedWithoutEdit": 7,
+                    "postEdited": {
+                        "0-5": 0,
+                        "6-10": 0,
+                        "11-15": 0,
+                        "other": 0
+                    },
+                    "weightedUnits": 7
+                },
+                "temporalStatistics": {
+                    "2025-08-27": {
+                        "approvedWithoutEdit": 7,
+                        "postEdited": {
+                            "0-5": 0,
+                            "6-10": 0,
+                            "11-15": 0,
+                            "other": 0
+                        },
+                        "weightedUnits": 7
+                    }
+                }
+            }
+        },
+        {
+            "language": {
+                "id": 41,
+                "name": "Russian",
+                "code": "ru"
+            },
+            "ai": {
+                "cumulativeStatistics": {
+                    "approvedWithoutEdit": 8,
+                    "postEdited": {
+                        "0-5": 0,
+                        "6-10": 0,
+                        "11-15": 0,
+                        "other": 0
+                    },
+                    "weightedUnits": 8
+                },
+                "temporalStatistics": {
+                    "2025-08-26": {
+                        "approvedWithoutEdit": 3,
+                        "postEdited": {
+                            "0-5": 0,
+                            "6-10": 0,
+                            "11-15": 0,
+                            "other": 0
+                        },
+                        "weightedUnits": 3
+                    },
+                    "2025-08-27": {
+                        "approvedWithoutEdit": 5,
+                        "postEdited": {
+                            "0-5": 0,
+                            "6-10": 0,
+                            "11-15": 0,
+                            "other": 0
+                        },
+                        "weightedUnits": 5
+                    }
+                },
+                "prompts": [
+                    {
+                        "prompt": {
+                            "id": 17681,
+                            "provider": {
+                                "id": 2076,
+                                "type": "open_ai",
+                                "name": "Open AI"
+                            },
+                            "model": "gpt-4.1-mini",
+                            "name": "Webflow - Russian "
+                        },
+                        "cumulativeStatistics": {
+                            "approvedWithoutEdit": 8,
+                            "postEdited": {
+                                "0-5": 0,
+                                "6-10": 0,
+                                "11-15": 0,
+                                "other": 0
+                            },
+                            "weightedUnits": 8
+                        },
+                        "temporalStatistics": {
+                            "2025-08-26": {
+                                "approvedWithoutEdit": 3,
+                                "postEdited": {
+                                    "0-5": 0,
+                                    "6-10": 0,
+                                    "11-15": 0,
+                                    "other": 0
+                                },
+                                "weightedUnits": 3
+                            },
+                            "2025-08-27": {
+                                "approvedWithoutEdit": 5,
+                                "postEdited": {
+                                    "0-5": 0,
+                                    "6-10": 0,
+                                    "11-15": 0,
+                                    "other": 0
+                                },
+                                "weightedUnits": 5
+                            }
+                        }
+                    }
+                ]
+            },
+            "mt": {
+                "cumulativeStatistics": {
+                    "approvedWithoutEdit": 0,
+                    "postEdited": {
+                        "0-5": 0,
+                        "6-10": 0,
+                        "11-15": 0,
+                        "other": 0
+                    },
+                    "weightedUnits": 0
+                },
+                "temporalStatistics": null,
+                "providers": []
+            },
+            "tm": {
+                "cumulativeStatistics": {
+                    "approvedWithoutEdit": 4,
+                    "postEdited": {
+                        "0-5": 0,
+                        "6-10": 0,
+                        "11-15": 0,
+                        "other": 0
+                    },
+                    "weightedUnits": 4
+                },
+                "temporalStatistics": {
+                    "2025-08-27": {
+                        "approvedWithoutEdit": 4,
+                        "postEdited": {
+                            "0-5": 0,
+                            "6-10": 0,
+                            "11-15": 0,
+                            "other": 0
+                        },
+                        "weightedUnits": 4
+                    }
+                }
+            }
+        },
+        {
+            "language": {
+                "id": 132,
+                "name": "Sinhala",
+                "code": "si-LK"
+            },
+            "ai": {
+                "cumulativeStatistics": {
+                    "approvedWithoutEdit": 0,
+                    "postEdited": {
+                        "0-5": 0,
+                        "6-10": 0,
+                        "11-15": 0,
+                        "other": 0
+                    },
+                    "weightedUnits": 0
+                },
+                "temporalStatistics": null,
+                "prompts": []
+            },
+            "mt": {
+                "cumulativeStatistics": {
+                    "approvedWithoutEdit": 0,
+                    "postEdited": {
+                        "0-5": 0,
+                        "6-10": 0,
+                        "11-15": 0,
+                        "other": 0
+                    },
+                    "weightedUnits": 0
+                },
+                "temporalStatistics": null,
+                "providers": []
+            },
+            "tm": {
+                "cumulativeStatistics": {
+                    "approvedWithoutEdit": 3,
+                    "postEdited": {
+                        "0-5": 0,
+                        "6-10": 0,
+                        "11-15": 0,
+                        "other": 0
+                    },
+                    "weightedUnits": 3
+                },
+                "temporalStatistics": {
+                    "2025-08-27": {
+                        "approvedWithoutEdit": 3,
+                        "postEdited": {
+                            "0-5": 0,
+                            "6-10": 0,
+                            "11-15": 0,
+                            "other": 0
+                        },
+                        "weightedUnits": 3
+                    }
+                }
+            }
+        },
+        {
+            "language": {
+                "id": 3,
+                "name": "Spanish",
+                "code": "es-ES"
+            },
+            "ai": {
+                "cumulativeStatistics": {
+                    "approvedWithoutEdit": 32,
+                    "postEdited": {
+                        "0-5": 0,
+                        "6-10": 0,
+                        "11-15": 0,
+                        "other": 0
+                    },
+                    "weightedUnits": 32
+                },
+                "temporalStatistics": {
+                    "2025-08-27": {
+                        "approvedWithoutEdit": 32,
+                        "postEdited": {
+                            "0-5": 0,
+                            "6-10": 0,
+                            "11-15": 0,
+                            "other": 0
+                        },
+                        "weightedUnits": 32
+                    }
+                },
+                "prompts": [
+                    {
+                        "prompt": {
+                            "id": 16997,
+                            "provider": {
+                                "id": 2076,
+                                "type": "open_ai",
+                                "name": "Open AI"
+                            },
+                            "model": "gpt-4.1-mini",
+                            "name": "Webflow - Spanish "
+                        },
+                        "cumulativeStatistics": {
+                            "approvedWithoutEdit": 32,
+                            "postEdited": {
+                                "0-5": 0,
+                                "6-10": 0,
+                                "11-15": 0,
+                                "other": 0
+                            },
+                            "weightedUnits": 32
+                        },
+                        "temporalStatistics": {
+                            "2025-08-27": {
+                                "approvedWithoutEdit": 32,
+                                "postEdited": {
+                                    "0-5": 0,
+                                    "6-10": 0,
+                                    "11-15": 0,
+                                    "other": 0
+                                },
+                                "weightedUnits": 32
+                            }
+                        }
+                    }
+                ]
+            },
+            "mt": {
+                "cumulativeStatistics": {
+                    "approvedWithoutEdit": 0,
+                    "postEdited": {
+                        "0-5": 0,
+                        "6-10": 0,
+                        "11-15": 0,
+                        "other": 0
+                    },
+                    "weightedUnits": 0
+                },
+                "temporalStatistics": null,
+                "providers": []
+            },
+            "tm": {
+                "cumulativeStatistics": {
+                    "approvedWithoutEdit": 5,
+                    "postEdited": {
+                        "0-5": 0,
+                        "6-10": 0,
+                        "11-15": 0,
+                        "other": 0
+                    },
+                    "weightedUnits": 5
+                },
+                "temporalStatistics": {
+                    "2025-08-27": {
+                        "approvedWithoutEdit": 5,
+                        "postEdited": {
+                            "0-5": 0,
+                            "6-10": 0,
+                            "11-15": 0,
+                            "other": 0
+                        },
+                        "weightedUnits": 5
+                    }
+                }
+            }
+        },
+        {
+            "language": {
+                "id": 153,
+                "name": "Swahili",
+                "code": "sw"
+            },
+            "ai": {
+                "cumulativeStatistics": {
+                    "approvedWithoutEdit": 0,
+                    "postEdited": {
+                        "0-5": 0,
+                        "6-10": 0,
+                        "11-15": 0,
+                        "other": 0
+                    },
+                    "weightedUnits": 0
+                },
+                "temporalStatistics": null,
+                "prompts": []
+            },
+            "mt": {
+                "cumulativeStatistics": {
+                    "approvedWithoutEdit": 0,
+                    "postEdited": {
+                        "0-5": 0,
+                        "6-10": 0,
+                        "11-15": 0,
+                        "other": 0
+                    },
+                    "weightedUnits": 0
+                },
+                "temporalStatistics": null,
+                "providers": []
+            },
+            "tm": {
+                "cumulativeStatistics": {
+                    "approvedWithoutEdit": 5,
+                    "postEdited": {
+                        "0-5": 0,
+                        "6-10": 0,
+                        "11-15": 0,
+                        "other": 0
+                    },
+                    "weightedUnits": 5
+                },
+                "temporalStatistics": {
+                    "2025-08-27": {
+                        "approvedWithoutEdit": 5,
+                        "postEdited": {
+                            "0-5": 0,
+                            "6-10": 0,
+                            "11-15": 0,
+                            "other": 0
+                        },
+                        "weightedUnits": 5
+                    }
+                }
+            }
+        },
+        {
+            "language": {
+                "id": 82,
+                "name": "Thai",
+                "code": "th"
+            },
+            "ai": {
+                "cumulativeStatistics": {
+                    "approvedWithoutEdit": 40,
+                    "postEdited": {
+                        "0-5": 0,
+                        "6-10": 0,
+                        "11-15": 0,
+                        "other": 0
+                    },
+                    "weightedUnits": 40
+                },
+                "temporalStatistics": {
+                    "2025-08-26": {
+                        "approvedWithoutEdit": 3,
+                        "postEdited": {
+                            "0-5": 0,
+                            "6-10": 0,
+                            "11-15": 0,
+                            "other": 0
+                        },
+                        "weightedUnits": 3
+                    },
+                    "2025-08-28": {
+                        "approvedWithoutEdit": 37,
+                        "postEdited": {
+                            "0-5": 0,
+                            "6-10": 0,
+                            "11-15": 0,
+                            "other": 0
+                        },
+                        "weightedUnits": 37
+                    }
+                },
+                "prompts": [
+                    {
+                        "prompt": {
+                            "id": 1014,
+                            "provider": {
+                                "id": 2076,
+                                "type": "open_ai",
+                                "name": "Open AI"
+                            },
+                            "model": "gpt-4.1-mini",
+                            "name": "Webflow - Thai "
+                        },
+                        "cumulativeStatistics": {
+                            "approvedWithoutEdit": 40,
+                            "postEdited": {
+                                "0-5": 0,
+                                "6-10": 0,
+                                "11-15": 0,
+                                "other": 0
+                            },
+                            "weightedUnits": 40
+                        },
+                        "temporalStatistics": {
+                            "2025-08-26": {
+                                "approvedWithoutEdit": 3,
+                                "postEdited": {
+                                    "0-5": 0,
+                                    "6-10": 0,
+                                    "11-15": 0,
+                                    "other": 0
+                                },
+                                "weightedUnits": 3
+                            },
+                            "2025-08-28": {
+                                "approvedWithoutEdit": 37,
+                                "postEdited": {
+                                    "0-5": 0,
+                                    "6-10": 0,
+                                    "11-15": 0,
+                                    "other": 0
+                                },
+                                "weightedUnits": 37
+                            }
+                        }
+                    }
+                ]
+            },
+            "mt": {
+                "cumulativeStatistics": {
+                    "approvedWithoutEdit": 0,
+                    "postEdited": {
+                        "0-5": 0,
+                        "6-10": 0,
+                        "11-15": 0,
+                        "other": 0
+                    },
+                    "weightedUnits": 0
+                },
+                "temporalStatistics": null,
+                "providers": []
+            },
+            "tm": {
+                "cumulativeStatistics": {
+                    "approvedWithoutEdit": 7,
+                    "postEdited": {
+                        "0-5": 0,
+                        "6-10": 0,
+                        "11-15": 0,
+                        "other": 0
+                    },
+                    "weightedUnits": 7
+                },
+                "temporalStatistics": {
+                    "2025-08-27": {
+                        "approvedWithoutEdit": 6,
+                        "postEdited": {
+                            "0-5": 0,
+                            "6-10": 0,
+                            "11-15": 0,
+                            "other": 0
+                        },
+                        "weightedUnits": 6
+                    },
+                    "2025-08-28": {
+                        "approvedWithoutEdit": 1,
+                        "postEdited": {
+                            "0-5": 0,
+                            "6-10": 0,
+                            "11-15": 0,
+                            "other": 0
+                        },
+                        "weightedUnits": 1
+                    }
+                }
+            }
+        },
+        {
+            "language": {
+                "id": 50,
+                "name": "Turkish",
+                "code": "tr"
+            },
+            "ai": {
+                "cumulativeStatistics": {
+                    "approvedWithoutEdit": 0,
+                    "postEdited": {
+                        "0-5": 0,
+                        "6-10": 0,
+                        "11-15": 0,
+                        "other": 0
+                    },
+                    "weightedUnits": 0
+                },
+                "temporalStatistics": null,
+                "prompts": []
+            },
+            "mt": {
+                "cumulativeStatistics": {
+                    "approvedWithoutEdit": 0,
+                    "postEdited": {
+                        "0-5": 0,
+                        "6-10": 0,
+                        "11-15": 0,
+                        "other": 0
+                    },
+                    "weightedUnits": 0
+                },
+                "temporalStatistics": null,
+                "providers": []
+            },
+            "tm": {
+                "cumulativeStatistics": {
+                    "approvedWithoutEdit": 3,
+                    "postEdited": {
+                        "0-5": 0,
+                        "6-10": 0,
+                        "11-15": 0,
+                        "other": 0
+                    },
+                    "weightedUnits": 3
+                },
+                "temporalStatistics": {
+                    "2025-08-27": {
+                        "approvedWithoutEdit": 3,
+                        "postEdited": {
+                            "0-5": 0,
+                            "6-10": 0,
+                            "11-15": 0,
+                            "other": 0
+                        },
+                        "weightedUnits": 3
+                    }
+                }
+            }
+        },
+        {
+            "language": {
+                "id": 134,
+                "name": "Uzbek",
+                "code": "uz"
+            },
+            "ai": {
+                "cumulativeStatistics": {
+                    "approvedWithoutEdit": 0,
+                    "postEdited": {
+                        "0-5": 0,
+                        "6-10": 0,
+                        "11-15": 0,
+                        "other": 0
+                    },
+                    "weightedUnits": 0
+                },
+                "temporalStatistics": null,
+                "prompts": []
+            },
+            "mt": {
+                "cumulativeStatistics": {
+                    "approvedWithoutEdit": 0,
+                    "postEdited": {
+                        "0-5": 0,
+                        "6-10": 0,
+                        "11-15": 0,
+                        "other": 0
+                    },
+                    "weightedUnits": 0
+                },
+                "temporalStatistics": null,
+                "providers": []
+            },
+            "tm": {
+                "cumulativeStatistics": {
+                    "approvedWithoutEdit": 5,
+                    "postEdited": {
+                        "0-5": 0,
+                        "6-10": 0,
+                        "11-15": 0,
+                        "other": 0
+                    },
+                    "weightedUnits": 5
+                },
+                "temporalStatistics": {
+                    "2025-08-27": {
+                        "approvedWithoutEdit": 5,
+                        "postEdited": {
+                            "0-5": 0,
+                            "6-10": 0,
+                            "11-15": 0,
+                            "other": 0
+                        },
+                        "weightedUnits": 5
+                    }
+                }
+            }
+        },
+        {
+            "language": {
+                "id": 60,
+                "name": "Vietnamese",
+                "code": "vi"
+            },
+            "ai": {
+                "cumulativeStatistics": {
+                    "approvedWithoutEdit": 0,
+                    "postEdited": {
+                        "0-5": 0,
+                        "6-10": 0,
+                        "11-15": 0,
+                        "other": 0
+                    },
+                    "weightedUnits": 0
+                },
+                "temporalStatistics": null,
+                "prompts": []
+            },
+            "mt": {
+                "cumulativeStatistics": {
+                    "approvedWithoutEdit": 0,
+                    "postEdited": {
+                        "0-5": 0,
+                        "6-10": 0,
+                        "11-15": 0,
+                        "other": 0
+                    },
+                    "weightedUnits": 0
+                },
+                "temporalStatistics": null,
+                "providers": []
+            },
+            "tm": {
+                "cumulativeStatistics": {
+                    "approvedWithoutEdit": 2,
+                    "postEdited": {
+                        "0-5": 0,
+                        "6-10": 0,
+                        "11-15": 0,
+                        "other": 0
+                    },
+                    "weightedUnits": 2
+                },
+                "temporalStatistics": {
+                    "2025-08-27": {
+                        "approvedWithoutEdit": 2,
+                        "postEdited": {
+                            "0-5": 0,
+                            "6-10": 0,
+                            "11-15": 0,
+                            "other": 0
+                        },
+                        "weightedUnits": 2
+                    }
+                }
+            }
+        }
+    ]
+}

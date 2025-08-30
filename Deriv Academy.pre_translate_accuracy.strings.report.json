@@ -1,0 +1,596 @@
+{
+    "name": "Deriv Academy Pre-translation Accuracy Report",
+    "url": "https://crowdin.com/project/7db0f3d6ed2c4f9113a0e5efbfb5d85d",
+    "unit": "strings",
+    "dateRange": {
+        "from": "2025-07-29",
+        "to": "2025-08-28"
+    },
+    "data": [
+        {
+            "language": {
+                "id": 5,
+                "name": "Arabic",
+                "code": "ar"
+            },
+            "ai": {
+                "cumulativeStatistics": {
+                    "approvedWithoutEdit": 9428,
+                    "postEdited": {
+                        "0-5": 0,
+                        "6-10": 0,
+                        "11-15": 0,
+                        "other": 0
+                    },
+                    "weightedUnits": 9428
+                },
+                "temporalStatistics": {
+                    "2025-07-29": {
+                        "approvedWithoutEdit": 828,
+                        "postEdited": {
+                            "0-5": 0,
+                            "6-10": 0,
+                            "11-15": 0,
+                            "other": 0
+                        },
+                        "weightedUnits": 828
+                    },
+                    "2025-08-11": {
+                        "approvedWithoutEdit": 15,
+                        "postEdited": {
+                            "0-5": 0,
+                            "6-10": 0,
+                            "11-15": 0,
+                            "other": 0
+                        },
+                        "weightedUnits": 15
+                    },
+                    "2025-08-12": {
+                        "approvedWithoutEdit": 8585,
+                        "postEdited": {
+                            "0-5": 0,
+                            "6-10": 0,
+                            "11-15": 0,
+                            "other": 0
+                        },
+                        "weightedUnits": 8585
+                    }
+                },
+                "prompts": [
+                    {
+                        "prompt": {
+                            "id": 17665,
+                            "provider": {
+                                "id": 2076,
+                                "type": "open_ai",
+                                "name": "Open AI"
+                            },
+                            "model": "gpt-4.1-mini",
+                            "name": "Webflow - Arabic"
+                        },
+                        "cumulativeStatistics": {
+                            "approvedWithoutEdit": 9428,
+                            "postEdited": {
+                                "0-5": 0,
+                                "6-10": 0,
+                                "11-15": 0,
+                                "other": 0
+                            },
+                            "weightedUnits": 9428
+                        },
+                        "temporalStatistics": {
+                            "2025-07-29": {
+                                "approvedWithoutEdit": 828,
+                                "postEdited": {
+                                    "0-5": 0,
+                                    "6-10": 0,
+                                    "11-15": 0,
+                                    "other": 0
+                                },
+                                "weightedUnits": 828
+                            },
+                            "2025-08-11": {
+                                "approvedWithoutEdit": 15,
+                                "postEdited": {
+                                    "0-5": 0,
+                                    "6-10": 0,
+                                    "11-15": 0,
+                                    "other": 0
+                                },
+                                "weightedUnits": 15
+                            },
+                            "2025-08-12": {
+                                "approvedWithoutEdit": 8585,
+                                "postEdited": {
+                                    "0-5": 0,
+                                    "6-10": 0,
+                                    "11-15": 0,
+                                    "other": 0
+                                },
+                                "weightedUnits": 8585
+                            }
+                        }
+                    }
+                ]
+            },
+            "mt": {
+                "cumulativeStatistics": {
+                    "approvedWithoutEdit": 0,
+                    "postEdited": {
+                        "0-5": 0,
+                        "6-10": 0,
+                        "11-15": 0,
+                        "other": 0
+                    },
+                    "weightedUnits": 0
+                },
+                "temporalStatistics": null,
+                "providers": []
+            },
+            "tm": {
+                "cumulativeStatistics": {
+                    "approvedWithoutEdit": 6149,
+                    "postEdited": {
+                        "0-5": 0,
+                        "6-10": 0,
+                        "11-15": 0,
+                        "other": 0
+                    },
+                    "weightedUnits": 6149
+                },
+                "temporalStatistics": {
+                    "2025-07-29": {
+                        "approvedWithoutEdit": 335,
+                        "postEdited": {
+                            "0-5": 0,
+                            "6-10": 0,
+                            "11-15": 0,
+                            "other": 0
+                        },
+                        "weightedUnits": 335
+                    },
+                    "2025-08-11": {
+                        "approvedWithoutEdit": 879,
+                        "postEdited": {
+                            "0-5": 0,
+                            "6-10": 0,
+                            "11-15": 0,
+                            "other": 0
+                        },
+                        "weightedUnits": 879
+                    },
+                    "2025-08-12": {
+                        "approvedWithoutEdit": 4935,
+                        "postEdited": {
+                            "0-5": 0,
+                            "6-10": 0,
+                            "11-15": 0,
+                            "other": 0
+                        },
+                        "weightedUnits": 4935
+                    }
+                }
+            }
+        },
+        {
+            "language": {
+                "id": 2,
+                "name": "French",
+                "code": "fr"
+            },
+            "ai": {
+                "cumulativeStatistics": {
+                    "approvedWithoutEdit": 206,
+                    "postEdited": {
+                        "0-5": 0,
+                        "6-10": 0,
+                        "11-15": 0,
+                        "other": 0
+                    },
+                    "weightedUnits": 206
+                },
+                "temporalStatistics": {
+                    "2025-07-29": {
+                        "approvedWithoutEdit": 206,
+                        "postEdited": {
+                            "0-5": 0,
+                            "6-10": 0,
+                            "11-15": 0,
+                            "other": 0
+                        },
+                        "weightedUnits": 206
+                    }
+                },
+                "prompts": [
+                    {
+                        "prompt": {
+                            "id": 18087,
+                            "provider": {
+                                "id": 2076,
+                                "type": "open_ai",
+                                "name": "Open AI"
+                            },
+                            "model": "gpt-4.1-mini",
+                            "name": "Webflow - French "
+                        },
+                        "cumulativeStatistics": {
+                            "approvedWithoutEdit": 206,
+                            "postEdited": {
+                                "0-5": 0,
+                                "6-10": 0,
+                                "11-15": 0,
+                                "other": 0
+                            },
+                            "weightedUnits": 206
+                        },
+                        "temporalStatistics": {
+                            "2025-07-29": {
+                                "approvedWithoutEdit": 206,
+                                "postEdited": {
+                                    "0-5": 0,
+                                    "6-10": 0,
+                                    "11-15": 0,
+                                    "other": 0
+                                },
+                                "weightedUnits": 206
+                            }
+                        }
+                    }
+                ]
+            },
+            "mt": {
+                "cumulativeStatistics": {
+                    "approvedWithoutEdit": 0,
+                    "postEdited": {
+                        "0-5": 0,
+                        "6-10": 0,
+                        "11-15": 0,
+                        "other": 0
+                    },
+                    "weightedUnits": 0
+                },
+                "temporalStatistics": null,
+                "providers": []
+            },
+            "tm": {
+                "cumulativeStatistics": {
+                    "approvedWithoutEdit": 74,
+                    "postEdited": {
+                        "0-5": 0,
+                        "6-10": 0,
+                        "11-15": 0,
+                        "other": 0
+                    },
+                    "weightedUnits": 74
+                },
+                "temporalStatistics": {
+                    "2025-07-29": {
+                        "approvedWithoutEdit": 74,
+                        "postEdited": {
+                            "0-5": 0,
+                            "6-10": 0,
+                            "11-15": 0,
+                            "other": 0
+                        },
+                        "weightedUnits": 74
+                    }
+                }
+            }
+        },
+        {
+            "language": {
+                "id": 40,
+                "name": "Portuguese",
+                "code": "pt-PT"
+            },
+            "ai": {
+                "cumulativeStatistics": {
+                    "approvedWithoutEdit": 219,
+                    "postEdited": {
+                        "0-5": 0,
+                        "6-10": 0,
+                        "11-15": 0,
+                        "other": 0
+                    },
+                    "weightedUnits": 219
+                },
+                "temporalStatistics": {
+                    "2025-07-29": {
+                        "approvedWithoutEdit": 219,
+                        "postEdited": {
+                            "0-5": 0,
+                            "6-10": 0,
+                            "11-15": 0,
+                            "other": 0
+                        },
+                        "weightedUnits": 219
+                    }
+                },
+                "prompts": [
+                    {
+                        "prompt": {
+                            "id": 112883,
+                            "provider": {
+                                "id": 202175,
+                                "type": "anthropic",
+                                "name": "Anthropic"
+                            },
+                            "model": "claude-3-7-sonnet-20250219",
+                            "name": "Claude - Portugal Portugeese [Main Use]"
+                        },
+                        "cumulativeStatistics": {
+                            "approvedWithoutEdit": 219,
+                            "postEdited": {
+                                "0-5": 0,
+                                "6-10": 0,
+                                "11-15": 0,
+                                "other": 0
+                            },
+                            "weightedUnits": 219
+                        },
+                        "temporalStatistics": {
+                            "2025-07-29": {
+                                "approvedWithoutEdit": 219,
+                                "postEdited": {
+                                    "0-5": 0,
+                                    "6-10": 0,
+                                    "11-15": 0,
+                                    "other": 0
+                                },
+                                "weightedUnits": 219
+                            }
+                        }
+                    }
+                ]
+            },
+            "mt": {
+                "cumulativeStatistics": {
+                    "approvedWithoutEdit": 0,
+                    "postEdited": {
+                        "0-5": 0,
+                        "6-10": 0,
+                        "11-15": 0,
+                        "other": 0
+                    },
+                    "weightedUnits": 0
+                },
+                "temporalStatistics": null,
+                "providers": []
+            },
+            "tm": {
+                "cumulativeStatistics": {
+                    "approvedWithoutEdit": 122,
+                    "postEdited": {
+                        "0-5": 0,
+                        "6-10": 0,
+                        "11-15": 0,
+                        "other": 0
+                    },
+                    "weightedUnits": 122
+                },
+                "temporalStatistics": {
+                    "2025-07-29": {
+                        "approvedWithoutEdit": 122,
+                        "postEdited": {
+                            "0-5": 0,
+                            "6-10": 0,
+                            "11-15": 0,
+                            "other": 0
+                        },
+                        "weightedUnits": 122
+                    }
+                }
+            }
+        },
+        {
+            "language": {
+                "id": 41,
+                "name": "Russian",
+                "code": "ru"
+            },
+            "ai": {
+                "cumulativeStatistics": {
+                    "approvedWithoutEdit": 86,
+                    "postEdited": {
+                        "0-5": 0,
+                        "6-10": 0,
+                        "11-15": 0,
+                        "other": 0
+                    },
+                    "weightedUnits": 86
+                },
+                "temporalStatistics": {
+                    "2025-07-29": {
+                        "approvedWithoutEdit": 86,
+                        "postEdited": {
+                            "0-5": 0,
+                            "6-10": 0,
+                            "11-15": 0,
+                            "other": 0
+                        },
+                        "weightedUnits": 86
+                    }
+                },
+                "prompts": [
+                    {
+                        "prompt": {
+                            "id": 17681,
+                            "provider": {
+                                "id": 2076,
+                                "type": "open_ai",
+                                "name": "Open AI"
+                            },
+                            "model": "gpt-4.1-mini",
+                            "name": "Webflow - Russian "
+                        },
+                        "cumulativeStatistics": {
+                            "approvedWithoutEdit": 86,
+                            "postEdited": {
+                                "0-5": 0,
+                                "6-10": 0,
+                                "11-15": 0,
+                                "other": 0
+                            },
+                            "weightedUnits": 86
+                        },
+                        "temporalStatistics": {
+                            "2025-07-29": {
+                                "approvedWithoutEdit": 86,
+                                "postEdited": {
+                                    "0-5": 0,
+                                    "6-10": 0,
+                                    "11-15": 0,
+                                    "other": 0
+                                },
+                                "weightedUnits": 86
+                            }
+                        }
+                    }
+                ]
+            },
+            "mt": {
+                "cumulativeStatistics": {
+                    "approvedWithoutEdit": 0,
+                    "postEdited": {
+                        "0-5": 0,
+                        "6-10": 0,
+                        "11-15": 0,
+                        "other": 0
+                    },
+                    "weightedUnits": 0
+                },
+                "temporalStatistics": null,
+                "providers": []
+            },
+            "tm": {
+                "cumulativeStatistics": {
+                    "approvedWithoutEdit": 67,
+                    "postEdited": {
+                        "0-5": 0,
+                        "6-10": 0,
+                        "11-15": 0,
+                        "other": 0
+                    },
+                    "weightedUnits": 67
+                },
+                "temporalStatistics": {
+                    "2025-07-29": {
+                        "approvedWithoutEdit": 67,
+                        "postEdited": {
+                            "0-5": 0,
+                            "6-10": 0,
+                            "11-15": 0,
+                            "other": 0
+                        },
+                        "weightedUnits": 67
+                    }
+                }
+            }
+        },
+        {
+            "language": {
+                "id": 3,
+                "name": "Spanish",
+                "code": "es-ES"
+            },
+            "ai": {
+                "cumulativeStatistics": {
+                    "approvedWithoutEdit": 262,
+                    "postEdited": {
+                        "0-5": 0,
+                        "6-10": 0,
+                        "11-15": 0,
+                        "other": 0
+                    },
+                    "weightedUnits": 262
+                },
+                "temporalStatistics": {
+                    "2025-07-29": {
+                        "approvedWithoutEdit": 262,
+                        "postEdited": {
+                            "0-5": 0,
+                            "6-10": 0,
+                            "11-15": 0,
+                            "other": 0
+                        },
+                        "weightedUnits": 262
+                    }
+                },
+                "prompts": [
+                    {
+                        "prompt": {
+                            "id": 16997,
+                            "provider": {
+                                "id": 2076,
+                                "type": "open_ai",
+                                "name": "Open AI"
+                            },
+                            "model": "gpt-4.1-mini",
+                            "name": "Webflow - Spanish "
+                        },
+                        "cumulativeStatistics": {
+                            "approvedWithoutEdit": 262,
+                            "postEdited": {
+                                "0-5": 0,
+                                "6-10": 0,
+                                "11-15": 0,
+                                "other": 0
+                            },
+                            "weightedUnits": 262
+                        },
+                        "temporalStatistics": {
+                            "2025-07-29": {
+                                "approvedWithoutEdit": 262,
+                                "postEdited": {
+                                    "0-5": 0,
+                                    "6-10": 0,
+                                    "11-15": 0,
+                                    "other": 0
+                                },
+                                "weightedUnits": 262
+                            }
+                        }
+                    }
+                ]
+            },
+            "mt": {
+                "cumulativeStatistics": {
+                    "approvedWithoutEdit": 0,
+                    "postEdited": {
+                        "0-5": 0,
+                        "6-10": 0,
+                        "11-15": 0,
+                        "other": 0
+                    },
+                    "weightedUnits": 0
+                },
+                "temporalStatistics": null,
+                "providers": []
+            },
+            "tm": {
+                "cumulativeStatistics": {
+                    "approvedWithoutEdit": 84,
+                    "postEdited": {
+                        "0-5": 0,
+                        "6-10": 0,
+                        "11-15": 0,
+                        "other": 0
+                    },
+                    "weightedUnits": 84
+                },
+                "temporalStatistics": {
+                    "2025-07-29": {
+                        "approvedWithoutEdit": 84,
+                        "postEdited": {
+                            "0-5": 0,
+                            "6-10": 0,
+                            "11-15": 0,
+                            "other": 0
+                        },
+                        "weightedUnits": 84
+                    }
+                }
+            }
+        }
+    ]
+}

@@ -1,0 +1,1236 @@
+{
+    "name": "Deriv UAE Pre-translation Accuracy Report",
+    "url": "https://crowdin.com/project/9aeb26e82997dc05db9d5e55caabb426",
+    "unit": "strings",
+    "dateRange": {
+        "from": "2025-02-06",
+        "to": "2025-08-28"
+    },
+    "data": [
+        {
+            "language": {
+                "id": 5,
+                "name": "Arabic",
+                "code": "ar"
+            },
+            "ai": {
+                "cumulativeStatistics": {
+                    "approvedWithoutEdit": 1316,
+                    "postEdited": {
+                        "0-5": 55,
+                        "6-10": 57,
+                        "11-15": 52,
+                        "other": 169
+                    },
+                    "weightedUnits": 1578.62
+                },
+                "temporalStatistics": {
+                    "2025-03-25": {
+                        "approvedWithoutEdit": 4,
+                        "postEdited": {
+                            "0-5": 0,
+                            "6-10": 0,
+                            "11-15": 0,
+                            "other": 3
+                        },
+                        "weightedUnits": 4.2
+                    },
+                    "2025-03-26": {
+                        "approvedWithoutEdit": 2,
+                        "postEdited": {
+                            "0-5": 0,
+                            "6-10": 0,
+                            "11-15": 1,
+                            "other": 0
+                        },
+                        "weightedUnits": 2.88
+                    },
+                    "2025-04-09": {
+                        "approvedWithoutEdit": 1,
+                        "postEdited": {
+                            "0-5": 0,
+                            "6-10": 0,
+                            "11-15": 0,
+                            "other": 0
+                        },
+                        "weightedUnits": 1
+                    },
+                    "2025-04-14": {
+                        "approvedWithoutEdit": 2,
+                        "postEdited": {
+                            "0-5": 0,
+                            "6-10": 0,
+                            "11-15": 0,
+                            "other": 0
+                        },
+                        "weightedUnits": 2
+                    },
+                    "2025-04-15": {
+                        "approvedWithoutEdit": 15,
+                        "postEdited": {
+                            "0-5": 0,
+                            "6-10": 0,
+                            "11-15": 0,
+                            "other": 0
+                        },
+                        "weightedUnits": 15
+                    },
+                    "2025-04-16": {
+                        "approvedWithoutEdit": 3,
+                        "postEdited": {
+                            "0-5": 0,
+                            "6-10": 0,
+                            "11-15": 0,
+                            "other": 0
+                        },
+                        "weightedUnits": 3
+                    },
+                    "2025-04-20": {
+                        "approvedWithoutEdit": 2,
+                        "postEdited": {
+                            "0-5": 0,
+                            "6-10": 0,
+                            "11-15": 0,
+                            "other": 0
+                        },
+                        "weightedUnits": 2
+                    },
+                    "2025-04-21": {
+                        "approvedWithoutEdit": 2,
+                        "postEdited": {
+                            "0-5": 0,
+                            "6-10": 0,
+                            "11-15": 0,
+                            "other": 0
+                        },
+                        "weightedUnits": 2
+                    },
+                    "2025-04-22": {
+                        "approvedWithoutEdit": 1,
+                        "postEdited": {
+                            "0-5": 0,
+                            "6-10": 0,
+                            "11-15": 0,
+                            "other": 1
+                        },
+                        "weightedUnits": 1.47
+                    },
+                    "2025-04-23": {
+                        "approvedWithoutEdit": 39,
+                        "postEdited": {
+                            "0-5": 6,
+                            "6-10": 6,
+                            "11-15": 6,
+                            "other": 17
+                        },
+                        "weightedUnits": 68.21
+                    },
+                    "2025-04-24": {
+                        "approvedWithoutEdit": 31,
+                        "postEdited": {
+                            "0-5": 0,
+                            "6-10": 1,
+                            "11-15": 0,
+                            "other": 2
+                        },
+                        "weightedUnits": 33.42
+                    },
+                    "2025-04-27": {
+                        "approvedWithoutEdit": 10,
+                        "postEdited": {
+                            "0-5": 0,
+                            "6-10": 0,
+                            "11-15": 0,
+                            "other": 0
+                        },
+                        "weightedUnits": 10
+                    },
+                    "2025-04-28": {
+                        "approvedWithoutEdit": 34,
+                        "postEdited": {
+                            "0-5": 3,
+                            "6-10": 0,
+                            "11-15": 4,
+                            "other": 13
+                        },
+                        "weightedUnits": 50.22
+                    },
+                    "2025-04-29": {
+                        "approvedWithoutEdit": 1,
+                        "postEdited": {
+                            "0-5": 0,
+                            "6-10": 0,
+                            "11-15": 0,
+                            "other": 0
+                        },
+                        "weightedUnits": 1
+                    },
+                    "2025-04-30": {
+                        "approvedWithoutEdit": 1,
+                        "postEdited": {
+                            "0-5": 0,
+                            "6-10": 0,
+                            "11-15": 0,
+                            "other": 0
+                        },
+                        "weightedUnits": 1
+                    },
+                    "2025-05-01": {
+                        "approvedWithoutEdit": 9,
+                        "postEdited": {
+                            "0-5": 0,
+                            "6-10": 1,
+                            "11-15": 3,
+                            "other": 1
+                        },
+                        "weightedUnits": 13.28
+                    },
+                    "2025-05-02": {
+                        "approvedWithoutEdit": 1,
+                        "postEdited": {
+                            "0-5": 0,
+                            "6-10": 0,
+                            "11-15": 0,
+                            "other": 0
+                        },
+                        "weightedUnits": 1
+                    },
+                    "2025-05-05": {
+                        "approvedWithoutEdit": 88,
+                        "postEdited": {
+                            "0-5": 4,
+                            "6-10": 7,
+                            "11-15": 5,
+                            "other": 16
+                        },
+                        "weightedUnits": 114.89
+                    },
+                    "2025-05-06": {
+                        "approvedWithoutEdit": 162,
+                        "postEdited": {
+                            "0-5": 27,
+                            "6-10": 22,
+                            "11-15": 17,
+                            "other": 77
+                        },
+                        "weightedUnits": 271.34
+                    },
+                    "2025-05-07": {
+                        "approvedWithoutEdit": 49,
+                        "postEdited": {
+                            "0-5": 2,
+                            "6-10": 2,
+                            "11-15": 3,
+                            "other": 16
+                        },
+                        "weightedUnits": 65.31
+                    },
+                    "2025-05-08": {
+                        "approvedWithoutEdit": 1,
+                        "postEdited": {
+                            "0-5": 0,
+                            "6-10": 0,
+                            "11-15": 0,
+                            "other": 1
+                        },
+                        "weightedUnits": 1.84
+                    },
+                    "2025-05-09": {
+                        "approvedWithoutEdit": 47,
+                        "postEdited": {
+                            "0-5": 1,
+                            "6-10": 4,
+                            "11-15": 5,
+                            "other": 6
+                        },
+                        "weightedUnits": 60.59
+                    },
+                    "2025-05-11": {
+                        "approvedWithoutEdit": 59,
+                        "postEdited": {
+                            "0-5": 0,
+                            "6-10": 0,
+                            "11-15": 1,
+                            "other": 2
+                        },
+                        "weightedUnits": 61.28
+                    },
+                    "2025-05-12": {
+                        "approvedWithoutEdit": 125,
+                        "postEdited": {
+                            "0-5": 4,
+                            "6-10": 10,
+                            "11-15": 3,
+                            "other": 8
+                        },
+                        "weightedUnits": 146.39
+                    },
+                    "2025-05-13": {
+                        "approvedWithoutEdit": 0,
+                        "postEdited": {
+                            "0-5": 3,
+                            "6-10": 1,
+                            "11-15": 0,
+                            "other": 0
+                        },
+                        "weightedUnits": 3.81
+                    },
+                    "2025-05-14": {
+                        "approvedWithoutEdit": 0,
+                        "postEdited": {
+                            "0-5": 1,
+                            "6-10": 0,
+                            "11-15": 0,
+                            "other": 1
+                        },
+                        "weightedUnits": 1.79
+                    },
+                    "2025-05-23": {
+                        "approvedWithoutEdit": 2,
+                        "postEdited": {
+                            "0-5": 1,
+                            "6-10": 0,
+                            "11-15": 2,
+                            "other": 0
+                        },
+                        "weightedUnits": 4.74
+                    },
+                    "2025-05-27": {
+                        "approvedWithoutEdit": 0,
+                        "postEdited": {
+                            "0-5": 0,
+                            "6-10": 1,
+                            "11-15": 1,
+                            "other": 3
+                        },
+                        "weightedUnits": 3.51
+                    },
+                    "2025-05-28": {
+                        "approvedWithoutEdit": 0,
+                        "postEdited": {
+                            "0-5": 0,
+                            "6-10": 1,
+                            "11-15": 1,
+                            "other": 0
+                        },
+                        "weightedUnits": 1.81
+                    },
+                    "2025-06-09": {
+                        "approvedWithoutEdit": 0,
+                        "postEdited": {
+                            "0-5": 3,
+                            "6-10": 1,
+                            "11-15": 0,
+                            "other": 0
+                        },
+                        "weightedUnits": 3.81
+                    },
+                    "2025-06-10": {
+                        "approvedWithoutEdit": 4,
+                        "postEdited": {
+                            "0-5": 0,
+                            "6-10": 0,
+                            "11-15": 0,
+                            "other": 0
+                        },
+                        "weightedUnits": 4
+                    },
+                    "2025-07-02": {
+                        "approvedWithoutEdit": 4,
+                        "postEdited": {
+                            "0-5": 0,
+                            "6-10": 0,
+                            "11-15": 0,
+                            "other": 0
+                        },
+                        "weightedUnits": 4
+                    },
+                    "2025-07-13": {
+                        "approvedWithoutEdit": 2,
+                        "postEdited": {
+                            "0-5": 0,
+                            "6-10": 0,
+                            "11-15": 0,
+                            "other": 0
+                        },
+                        "weightedUnits": 2
+                    },
+                    "2025-07-18": {
+                        "approvedWithoutEdit": 530,
+                        "postEdited": {
+                            "0-5": 0,
+                            "6-10": 0,
+                            "11-15": 0,
+                            "other": 0
+                        },
+                        "weightedUnits": 530
+                    },
+                    "2025-07-22": {
+                        "approvedWithoutEdit": 59,
+                        "postEdited": {
+                            "0-5": 0,
+                            "6-10": 0,
+                            "11-15": 0,
+                            "other": 0
+                        },
+                        "weightedUnits": 59
+                    },
+                    "2025-07-24": {
+                        "approvedWithoutEdit": 24,
+                        "postEdited": {
+                            "0-5": 0,
+                            "6-10": 0,
+                            "11-15": 0,
+                            "other": 0
+                        },
+                        "weightedUnits": 24
+                    },
+                    "2025-07-25": {
+                        "approvedWithoutEdit": 1,
+                        "postEdited": {
+                            "0-5": 0,
+                            "6-10": 0,
+                            "11-15": 0,
+                            "other": 0
+                        },
+                        "weightedUnits": 1
+                    },
+                    "2025-07-28": {
+                        "approvedWithoutEdit": 0,
+                        "postEdited": {
+                            "0-5": 0,
+                            "6-10": 0,
+                            "11-15": 0,
+                            "other": 1
+                        },
+                        "weightedUnits": 0.83
+                    },
+                    "2025-08-11": {
+                        "approvedWithoutEdit": 1,
+                        "postEdited": {
+                            "0-5": 0,
+                            "6-10": 0,
+                            "11-15": 0,
+                            "other": 1
+                        },
+                        "weightedUnits": 1
+                    }
+                },
+                "prompts": [
+                    {
+                        "prompt": {
+                            "id": 17665,
+                            "provider": {
+                                "id": 2076,
+                                "type": "open_ai",
+                                "name": "Open AI"
+                            },
+                            "model": "gpt-4.1-mini",
+                            "name": "Webflow - Arabic"
+                        },
+                        "cumulativeStatistics": {
+                            "approvedWithoutEdit": 1316,
+                            "postEdited": {
+                                "0-5": 55,
+                                "6-10": 57,
+                                "11-15": 52,
+                                "other": 169
+                            },
+                            "weightedUnits": 1578.62
+                        },
+                        "temporalStatistics": {
+                            "2025-03-25": {
+                                "approvedWithoutEdit": 4,
+                                "postEdited": {
+                                    "0-5": 0,
+                                    "6-10": 0,
+                                    "11-15": 0,
+                                    "other": 3
+                                },
+                                "weightedUnits": 4.2
+                            },
+                            "2025-03-26": {
+                                "approvedWithoutEdit": 2,
+                                "postEdited": {
+                                    "0-5": 0,
+                                    "6-10": 0,
+                                    "11-15": 1,
+                                    "other": 0
+                                },
+                                "weightedUnits": 2.88
+                            },
+                            "2025-04-09": {
+                                "approvedWithoutEdit": 1,
+                                "postEdited": {
+                                    "0-5": 0,
+                                    "6-10": 0,
+                                    "11-15": 0,
+                                    "other": 0
+                                },
+                                "weightedUnits": 1
+                            },
+                            "2025-04-14": {
+                                "approvedWithoutEdit": 2,
+                                "postEdited": {
+                                    "0-5": 0,
+                                    "6-10": 0,
+                                    "11-15": 0,
+                                    "other": 0
+                                },
+                                "weightedUnits": 2
+                            },
+                            "2025-04-15": {
+                                "approvedWithoutEdit": 15,
+                                "postEdited": {
+                                    "0-5": 0,
+                                    "6-10": 0,
+                                    "11-15": 0,
+                                    "other": 0
+                                },
+                                "weightedUnits": 15
+                            },
+                            "2025-04-16": {
+                                "approvedWithoutEdit": 3,
+                                "postEdited": {
+                                    "0-5": 0,
+                                    "6-10": 0,
+                                    "11-15": 0,
+                                    "other": 0
+                                },
+                                "weightedUnits": 3
+                            },
+                            "2025-04-20": {
+                                "approvedWithoutEdit": 2,
+                                "postEdited": {
+                                    "0-5": 0,
+                                    "6-10": 0,
+                                    "11-15": 0,
+                                    "other": 0
+                                },
+                                "weightedUnits": 2
+                            },
+                            "2025-04-21": {
+                                "approvedWithoutEdit": 2,
+                                "postEdited": {
+                                    "0-5": 0,
+                                    "6-10": 0,
+                                    "11-15": 0,
+                                    "other": 0
+                                },
+                                "weightedUnits": 2
+                            },
+                            "2025-04-22": {
+                                "approvedWithoutEdit": 1,
+                                "postEdited": {
+                                    "0-5": 0,
+                                    "6-10": 0,
+                                    "11-15": 0,
+                                    "other": 1
+                                },
+                                "weightedUnits": 1.47
+                            },
+                            "2025-04-23": {
+                                "approvedWithoutEdit": 39,
+                                "postEdited": {
+                                    "0-5": 6,
+                                    "6-10": 6,
+                                    "11-15": 6,
+                                    "other": 17
+                                },
+                                "weightedUnits": 68.21
+                            },
+                            "2025-04-24": {
+                                "approvedWithoutEdit": 31,
+                                "postEdited": {
+                                    "0-5": 0,
+                                    "6-10": 1,
+                                    "11-15": 0,
+                                    "other": 2
+                                },
+                                "weightedUnits": 33.42
+                            },
+                            "2025-04-27": {
+                                "approvedWithoutEdit": 10,
+                                "postEdited": {
+                                    "0-5": 0,
+                                    "6-10": 0,
+                                    "11-15": 0,
+                                    "other": 0
+                                },
+                                "weightedUnits": 10
+                            },
+                            "2025-04-28": {
+                                "approvedWithoutEdit": 34,
+                                "postEdited": {
+                                    "0-5": 3,
+                                    "6-10": 0,
+                                    "11-15": 4,
+                                    "other": 13
+                                },
+                                "weightedUnits": 50.22
+                            },
+                            "2025-04-29": {
+                                "approvedWithoutEdit": 1,
+                                "postEdited": {
+                                    "0-5": 0,
+                                    "6-10": 0,
+                                    "11-15": 0,
+                                    "other": 0
+                                },
+                                "weightedUnits": 1
+                            },
+                            "2025-04-30": {
+                                "approvedWithoutEdit": 1,
+                                "postEdited": {
+                                    "0-5": 0,
+                                    "6-10": 0,
+                                    "11-15": 0,
+                                    "other": 0
+                                },
+                                "weightedUnits": 1
+                            },
+                            "2025-05-01": {
+                                "approvedWithoutEdit": 9,
+                                "postEdited": {
+                                    "0-5": 0,
+                                    "6-10": 1,
+                                    "11-15": 3,
+                                    "other": 1
+                                },
+                                "weightedUnits": 13.28
+                            },
+                            "2025-05-02": {
+                                "approvedWithoutEdit": 1,
+                                "postEdited": {
+                                    "0-5": 0,
+                                    "6-10": 0,
+                                    "11-15": 0,
+                                    "other": 0
+                                },
+                                "weightedUnits": 1
+                            },
+                            "2025-05-05": {
+                                "approvedWithoutEdit": 88,
+                                "postEdited": {
+                                    "0-5": 4,
+                                    "6-10": 7,
+                                    "11-15": 5,
+                                    "other": 16
+                                },
+                                "weightedUnits": 114.89
+                            },
+                            "2025-05-06": {
+                                "approvedWithoutEdit": 162,
+                                "postEdited": {
+                                    "0-5": 27,
+                                    "6-10": 22,
+                                    "11-15": 17,
+                                    "other": 77
+                                },
+                                "weightedUnits": 271.34
+                            },
+                            "2025-05-07": {
+                                "approvedWithoutEdit": 49,
+                                "postEdited": {
+                                    "0-5": 2,
+                                    "6-10": 2,
+                                    "11-15": 3,
+                                    "other": 16
+                                },
+                                "weightedUnits": 65.31
+                            },
+                            "2025-05-08": {
+                                "approvedWithoutEdit": 1,
+                                "postEdited": {
+                                    "0-5": 0,
+                                    "6-10": 0,
+                                    "11-15": 0,
+                                    "other": 1
+                                },
+                                "weightedUnits": 1.84
+                            },
+                            "2025-05-09": {
+                                "approvedWithoutEdit": 47,
+                                "postEdited": {
+                                    "0-5": 1,
+                                    "6-10": 4,
+                                    "11-15": 5,
+                                    "other": 6
+                                },
+                                "weightedUnits": 60.59
+                            },
+                            "2025-05-11": {
+                                "approvedWithoutEdit": 59,
+                                "postEdited": {
+                                    "0-5": 0,
+                                    "6-10": 0,
+                                    "11-15": 1,
+                                    "other": 2
+                                },
+                                "weightedUnits": 61.28
+                            },
+                            "2025-05-12": {
+                                "approvedWithoutEdit": 125,
+                                "postEdited": {
+                                    "0-5": 4,
+                                    "6-10": 10,
+                                    "11-15": 3,
+                                    "other": 8
+                                },
+                                "weightedUnits": 146.39
+                            },
+                            "2025-05-13": {
+                                "approvedWithoutEdit": 0,
+                                "postEdited": {
+                                    "0-5": 3,
+                                    "6-10": 1,
+                                    "11-15": 0,
+                                    "other": 0
+                                },
+                                "weightedUnits": 3.81
+                            },
+                            "2025-05-14": {
+                                "approvedWithoutEdit": 0,
+                                "postEdited": {
+                                    "0-5": 1,
+                                    "6-10": 0,
+                                    "11-15": 0,
+                                    "other": 1
+                                },
+                                "weightedUnits": 1.79
+                            },
+                            "2025-05-23": {
+                                "approvedWithoutEdit": 2,
+                                "postEdited": {
+                                    "0-5": 1,
+                                    "6-10": 0,
+                                    "11-15": 2,
+                                    "other": 0
+                                },
+                                "weightedUnits": 4.74
+                            },
+                            "2025-05-27": {
+                                "approvedWithoutEdit": 0,
+                                "postEdited": {
+                                    "0-5": 0,
+                                    "6-10": 1,
+                                    "11-15": 1,
+                                    "other": 3
+                                },
+                                "weightedUnits": 3.51
+                            },
+                            "2025-05-28": {
+                                "approvedWithoutEdit": 0,
+                                "postEdited": {
+                                    "0-5": 0,
+                                    "6-10": 1,
+                                    "11-15": 1,
+                                    "other": 0
+                                },
+                                "weightedUnits": 1.81
+                            },
+                            "2025-06-09": {
+                                "approvedWithoutEdit": 0,
+                                "postEdited": {
+                                    "0-5": 3,
+                                    "6-10": 1,
+                                    "11-15": 0,
+                                    "other": 0
+                                },
+                                "weightedUnits": 3.81
+                            },
+                            "2025-06-10": {
+                                "approvedWithoutEdit": 4,
+                                "postEdited": {
+                                    "0-5": 0,
+                                    "6-10": 0,
+                                    "11-15": 0,
+                                    "other": 0
+                                },
+                                "weightedUnits": 4
+                            },
+                            "2025-07-02": {
+                                "approvedWithoutEdit": 4,
+                                "postEdited": {
+                                    "0-5": 0,
+                                    "6-10": 0,
+                                    "11-15": 0,
+                                    "other": 0
+                                },
+                                "weightedUnits": 4
+                            },
+                            "2025-07-13": {
+                                "approvedWithoutEdit": 2,
+                                "postEdited": {
+                                    "0-5": 0,
+                                    "6-10": 0,
+                                    "11-15": 0,
+                                    "other": 0
+                                },
+                                "weightedUnits": 2
+                            },
+                            "2025-07-18": {
+                                "approvedWithoutEdit": 530,
+                                "postEdited": {
+                                    "0-5": 0,
+                                    "6-10": 0,
+                                    "11-15": 0,
+                                    "other": 0
+                                },
+                                "weightedUnits": 530
+                            },
+                            "2025-07-22": {
+                                "approvedWithoutEdit": 59,
+                                "postEdited": {
+                                    "0-5": 0,
+                                    "6-10": 0,
+                                    "11-15": 0,
+                                    "other": 0
+                                },
+                                "weightedUnits": 59
+                            },
+                            "2025-07-24": {
+                                "approvedWithoutEdit": 24,
+                                "postEdited": {
+                                    "0-5": 0,
+                                    "6-10": 0,
+                                    "11-15": 0,
+                                    "other": 0
+                                },
+                                "weightedUnits": 24
+                            },
+                            "2025-07-25": {
+                                "approvedWithoutEdit": 1,
+                                "postEdited": {
+                                    "0-5": 0,
+                                    "6-10": 0,
+                                    "11-15": 0,
+                                    "other": 0
+                                },
+                                "weightedUnits": 1
+                            },
+                            "2025-07-28": {
+                                "approvedWithoutEdit": 0,
+                                "postEdited": {
+                                    "0-5": 0,
+                                    "6-10": 0,
+                                    "11-15": 0,
+                                    "other": 1
+                                },
+                                "weightedUnits": 0.83
+                            },
+                            "2025-08-11": {
+                                "approvedWithoutEdit": 1,
+                                "postEdited": {
+                                    "0-5": 0,
+                                    "6-10": 0,
+                                    "11-15": 0,
+                                    "other": 1
+                                },
+                                "weightedUnits": 1
+                            }
+                        }
+                    }
+                ]
+            },
+            "mt": {
+                "cumulativeStatistics": {
+                    "approvedWithoutEdit": 0,
+                    "postEdited": {
+                        "0-5": 0,
+                        "6-10": 0,
+                        "11-15": 0,
+                        "other": 0
+                    },
+                    "weightedUnits": 0
+                },
+                "temporalStatistics": null,
+                "providers": []
+            },
+            "tm": {
+                "cumulativeStatistics": {
+                    "approvedWithoutEdit": 930,
+                    "postEdited": {
+                        "0-5": 3,
+                        "6-10": 6,
+                        "11-15": 4,
+                        "other": 19
+                    },
+                    "weightedUnits": 953.67
+                },
+                "temporalStatistics": {
+                    "2025-03-25": {
+                        "approvedWithoutEdit": 12,
+                        "postEdited": {
+                            "0-5": 0,
+                            "6-10": 0,
+                            "11-15": 0,
+                            "other": 2
+                        },
+                        "weightedUnits": 12
+                    },
+                    "2025-04-14": {
+                        "approvedWithoutEdit": 7,
+                        "postEdited": {
+                            "0-5": 0,
+                            "6-10": 0,
+                            "11-15": 0,
+                            "other": 0
+                        },
+                        "weightedUnits": 7
+                    },
+                    "2025-04-15": {
+                        "approvedWithoutEdit": 24,
+                        "postEdited": {
+                            "0-5": 0,
+                            "6-10": 0,
+                            "11-15": 0,
+                            "other": 0
+                        },
+                        "weightedUnits": 24
+                    },
+                    "2025-04-16": {
+                        "approvedWithoutEdit": 7,
+                        "postEdited": {
+                            "0-5": 0,
+                            "6-10": 0,
+                            "11-15": 0,
+                            "other": 0
+                        },
+                        "weightedUnits": 7
+                    },
+                    "2025-04-17": {
+                        "approvedWithoutEdit": 3,
+                        "postEdited": {
+                            "0-5": 0,
+                            "6-10": 0,
+                            "11-15": 0,
+                            "other": 0
+                        },
+                        "weightedUnits": 3
+                    },
+                    "2025-04-20": {
+                        "approvedWithoutEdit": 5,
+                        "postEdited": {
+                            "0-5": 0,
+                            "6-10": 0,
+                            "11-15": 0,
+                            "other": 0
+                        },
+                        "weightedUnits": 5
+                    },
+                    "2025-04-21": {
+                        "approvedWithoutEdit": 3,
+                        "postEdited": {
+                            "0-5": 0,
+                            "6-10": 0,
+                            "11-15": 0,
+                            "other": 0
+                        },
+                        "weightedUnits": 3
+                    },
+                    "2025-04-22": {
+                        "approvedWithoutEdit": 1,
+                        "postEdited": {
+                            "0-5": 0,
+                            "6-10": 0,
+                            "11-15": 0,
+                            "other": 0
+                        },
+                        "weightedUnits": 1
+                    },
+                    "2025-04-23": {
+                        "approvedWithoutEdit": 23,
+                        "postEdited": {
+                            "0-5": 0,
+                            "6-10": 0,
+                            "11-15": 0,
+                            "other": 1
+                        },
+                        "weightedUnits": 23.8
+                    },
+                    "2025-04-24": {
+                        "approvedWithoutEdit": 73,
+                        "postEdited": {
+                            "0-5": 0,
+                            "6-10": 0,
+                            "11-15": 0,
+                            "other": 0
+                        },
+                        "weightedUnits": 73
+                    },
+                    "2025-04-27": {
+                        "approvedWithoutEdit": 16,
+                        "postEdited": {
+                            "0-5": 0,
+                            "6-10": 1,
+                            "11-15": 0,
+                            "other": 0
+                        },
+                        "weightedUnits": 16.93
+                    },
+                    "2025-04-28": {
+                        "approvedWithoutEdit": 30,
+                        "postEdited": {
+                            "0-5": 0,
+                            "6-10": 2,
+                            "11-15": 0,
+                            "other": 5
+                        },
+                        "weightedUnits": 35.25
+                    },
+                    "2025-04-29": {
+                        "approvedWithoutEdit": 2,
+                        "postEdited": {
+                            "0-5": 0,
+                            "6-10": 0,
+                            "11-15": 0,
+                            "other": 0
+                        },
+                        "weightedUnits": 2
+                    },
+                    "2025-04-30": {
+                        "approvedWithoutEdit": 15,
+                        "postEdited": {
+                            "0-5": 0,
+                            "6-10": 0,
+                            "11-15": 0,
+                            "other": 0
+                        },
+                        "weightedUnits": 15
+                    },
+                    "2025-05-01": {
+                        "approvedWithoutEdit": 4,
+                        "postEdited": {
+                            "0-5": 0,
+                            "6-10": 0,
+                            "11-15": 0,
+                            "other": 0
+                        },
+                        "weightedUnits": 4
+                    },
+                    "2025-05-05": {
+                        "approvedWithoutEdit": 64,
+                        "postEdited": {
+                            "0-5": 1,
+                            "6-10": 0,
+                            "11-15": 0,
+                            "other": 2
+                        },
+                        "weightedUnits": 66.25
+                    },
+                    "2025-05-06": {
+                        "approvedWithoutEdit": 60,
+                        "postEdited": {
+                            "0-5": 0,
+                            "6-10": 2,
+                            "11-15": 2,
+                            "other": 4
+                        },
+                        "weightedUnits": 66.34
+                    },
+                    "2025-05-07": {
+                        "approvedWithoutEdit": 27,
+                        "postEdited": {
+                            "0-5": 1,
+                            "6-10": 0,
+                            "11-15": 1,
+                            "other": 1
+                        },
+                        "weightedUnits": 29.56
+                    },
+                    "2025-05-08": {
+                        "approvedWithoutEdit": 11,
+                        "postEdited": {
+                            "0-5": 0,
+                            "6-10": 0,
+                            "11-15": 1,
+                            "other": 0
+                        },
+                        "weightedUnits": 11.88
+                    },
+                    "2025-05-09": {
+                        "approvedWithoutEdit": 28,
+                        "postEdited": {
+                            "0-5": 0,
+                            "6-10": 0,
+                            "11-15": 0,
+                            "other": 0
+                        },
+                        "weightedUnits": 28
+                    },
+                    "2025-05-11": {
+                        "approvedWithoutEdit": 3,
+                        "postEdited": {
+                            "0-5": 0,
+                            "6-10": 0,
+                            "11-15": 0,
+                            "other": 0
+                        },
+                        "weightedUnits": 3
+                    },
+                    "2025-05-12": {
+                        "approvedWithoutEdit": 140,
+                        "postEdited": {
+                            "0-5": 0,
+                            "6-10": 0,
+                            "11-15": 0,
+                            "other": 1
+                        },
+                        "weightedUnits": 140.82
+                    },
+                    "2025-05-13": {
+                        "approvedWithoutEdit": 0,
+                        "postEdited": {
+                            "0-5": 0,
+                            "6-10": 0,
+                            "11-15": 0,
+                            "other": 1
+                        },
+                        "weightedUnits": 0.53
+                    },
+                    "2025-05-27": {
+                        "approvedWithoutEdit": 0,
+                        "postEdited": {
+                            "0-5": 1,
+                            "6-10": 0,
+                            "11-15": 0,
+                            "other": 0
+                        },
+                        "weightedUnits": 0.95
+                    },
+                    "2025-05-28": {
+                        "approvedWithoutEdit": 0,
+                        "postEdited": {
+                            "0-5": 0,
+                            "6-10": 0,
+                            "11-15": 0,
+                            "other": 1
+                        },
+                        "weightedUnits": 0.69
+                    },
+                    "2025-06-09": {
+                        "approvedWithoutEdit": 2,
+                        "postEdited": {
+                            "0-5": 0,
+                            "6-10": 1,
+                            "11-15": 0,
+                            "other": 0
+                        },
+                        "weightedUnits": 2.91
+                    },
+                    "2025-06-10": {
+                        "approvedWithoutEdit": 11,
+                        "postEdited": {
+                            "0-5": 0,
+                            "6-10": 0,
+                            "11-15": 0,
+                            "other": 0
+                        },
+                        "weightedUnits": 11
+                    },
+                    "2025-07-02": {
+                        "approvedWithoutEdit": 15,
+                        "postEdited": {
+                            "0-5": 0,
+                            "6-10": 0,
+                            "11-15": 0,
+                            "other": 0
+                        },
+                        "weightedUnits": 15
+                    },
+                    "2025-07-09": {
+                        "approvedWithoutEdit": 2,
+                        "postEdited": {
+                            "0-5": 0,
+                            "6-10": 0,
+                            "11-15": 0,
+                            "other": 0
+                        },
+                        "weightedUnits": 2
+                    },
+                    "2025-07-10": {
+                        "approvedWithoutEdit": 2,
+                        "postEdited": {
+                            "0-5": 0,
+                            "6-10": 0,
+                            "11-15": 0,
+                            "other": 0
+                        },
+                        "weightedUnits": 2
+                    },
+                    "2025-07-13": {
+                        "approvedWithoutEdit": 5,
+                        "postEdited": {
+                            "0-5": 0,
+                            "6-10": 0,
+                            "11-15": 0,
+                            "other": 0
+                        },
+                        "weightedUnits": 5
+                    },
+                    "2025-07-14": {
+                        "approvedWithoutEdit": 1,
+                        "postEdited": {
+                            "0-5": 0,
+                            "6-10": 0,
+                            "11-15": 0,
+                            "other": 0
+                        },
+                        "weightedUnits": 1
+                    },
+                    "2025-07-18": {
+                        "approvedWithoutEdit": 113,
+                        "postEdited": {
+                            "0-5": 0,
+                            "6-10": 0,
+                            "11-15": 0,
+                            "other": 0
+                        },
+                        "weightedUnits": 113
+                    },
+                    "2025-07-22": {
+                        "approvedWithoutEdit": 114,
+                        "postEdited": {
+                            "0-5": 0,
+                            "6-10": 0,
+                            "11-15": 0,
+                            "other": 1
+                        },
+                        "weightedUnits": 114.76
+                    },
+                    "2025-07-24": {
+                        "approvedWithoutEdit": 24,
+                        "postEdited": {
+                            "0-5": 0,
+                            "6-10": 0,
+                            "11-15": 0,
+                            "other": 0
+                        },
+                        "weightedUnits": 24
+                    },
+                    "2025-07-25": {
+                        "approvedWithoutEdit": 82,
+                        "postEdited": {
+                            "0-5": 0,
+                            "6-10": 0,
+                            "11-15": 0,
+                            "other": 0
+                        },
+                        "weightedUnits": 82
+                    },
+                    "2025-08-11": {
+                        "approvedWithoutEdit": 1,
+                        "postEdited": {
+                            "0-5": 0,
+                            "6-10": 0,
+                            "11-15": 0,
+                            "other": 0
+                        },
+                        "weightedUnits": 1
+                    }
+                }
+            }
+        }
+    ]
+}
