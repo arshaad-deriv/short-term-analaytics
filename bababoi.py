@@ -1044,27 +1044,9 @@ def business_impact(df, temporal_df):
     human_review_cost = (df['total_post_edited'].sum() / strings_per_hour) * cost_per_human_hour
     
     # ROI metrics
-    col1, col2, col3, col4 = st.columns(4)
-    
+    col1, col2,  = st.columns(2)
+        
     with col1:
-        st.markdown(f"""
-        <div class="human-value-card">
-            <h3>${critical_error_cost:,.0f}</h3>
-            <p>Potential Error Costs</p>
-            <small>Prevented by humans</small>
-        </div>
-        """, unsafe_allow_html=True)
-    
-    with col2:
-        st.markdown(f"""
-        <div class="metric-card">
-            <h3>${human_review_cost:,.0f}</h3>
-            <p>Human Review Investment</p>
-            <small>Cost of quality assurance</small>
-        </div>
-        """, unsafe_allow_html=True)
-    
-    with col3:
         roi_ratio = (critical_error_cost / human_review_cost) if human_review_cost > 0 else 0
         st.markdown(f"""
         <div class="human-value-card">
@@ -1074,7 +1056,7 @@ def business_impact(df, temporal_df):
         </div>
         """, unsafe_allow_html=True)
     
-    with col4:
+    with col2:
         risk_reduction = (1 - df['critical_edit_rate'].mean() / 100) * 100
         st.markdown(f"""
         <div class="human-value-card">
