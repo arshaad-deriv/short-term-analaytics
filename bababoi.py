@@ -303,7 +303,7 @@ def main():
     
     # Header
     st.markdown('<h1 class="main-header">🧠 Translation Quality Intelligence: The Human Factor</h1>', unsafe_allow_html=True)
-    st.markdown("### Demonstrating the Irreplaceable Value of Human Translators in the AI Era")
+    # st.markdown("### Demonstrating the Irreplaceable Value of Human Translators in the AI Era")
     
     # Load data
     with st.spinner("🔄 Loading and analyzing Crowdin translation data..."):
